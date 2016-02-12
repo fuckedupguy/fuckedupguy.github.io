@@ -19,3 +19,4 @@ github_username:  fuckedupguy
 
 # Build settings
 markdown: kramdown
+future:true
