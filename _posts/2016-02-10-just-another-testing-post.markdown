@@ -6,3 +6,5 @@ categories: general
 ---
 
 Just another testing post. :)
+
+<img src="assets/img/2016/feb/annonymous.jpg" alt="annonymouse picture" title="just a picture">
