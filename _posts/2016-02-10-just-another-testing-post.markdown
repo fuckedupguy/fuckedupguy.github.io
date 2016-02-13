@@ -10,7 +10,7 @@ Just another testing post. :)
 #### Image adding.
 ![annonymouse picture](assets/img/2016/feb/annonymous.jpg "Just a picture")
 
-{% highlight php %}
+{% highlight php linenos %}
 function settings_save_alerts() {
 
 	if (isset($_SESSION['settings_saved']) && $_SESSION['settings_saved'] === 'y') {
