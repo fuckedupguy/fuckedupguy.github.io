@@ -9,6 +9,7 @@ Just another testing post. :)
 
 #### Image adding.
 ![annonymouse picture](assets/img/2016/feb/annonymous.jpg "Just a picture")
+<!--more-->
 
 {% highlight php linenos %}
 function settings_save_alerts() {

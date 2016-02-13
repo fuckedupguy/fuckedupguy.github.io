@@ -6,3 +6,4 @@ categories: general
 ---
 
 Hi, this is fuckedupguy, In this blog I'm gonna publish all my fuckedup life stories.
+<!--more-->
