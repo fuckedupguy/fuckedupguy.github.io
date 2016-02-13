@@ -1,9 +1,9 @@
 ---
 layout: post
-comments: true
 title:  "Just Another Testing Post"
 date:   2016-02-10 17:31:24 -0800
 categories: general
+comments: true
 ---
 
 Just another testing post. :)
