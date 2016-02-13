@@ -13,6 +13,8 @@
         <h1>show me only on index!</h1>
       </div>
     </div>
+    {% else %}
+    {{ site.title | escape }}
     {% endif %}
 
     <div class="page-content">
