@@ -7,7 +7,13 @@
 
     {% include header.html %}
 
-    {{ page.url }}
+    {% if page.url == '/' %}
+    <div>
+      <div class="wrapper">
+        only on index
+      </div>
+    </div>
+    {% endif %}
 
     <div class="page-content">
       <div class="wrapper">
