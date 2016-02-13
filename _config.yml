@@ -11,7 +11,7 @@ email: kkusumawathi@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Hi, I'm fuckedupguy. and I'm gona post all my fucked up stories on this blog.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://fuckedupguy.github.io" # the base hostname & protocol for your site
+url: "https://fuckedupguy.github.io" # the base hostname & protocol for your site
 twitter_username: 
 github_username:  fuckedupguy
 
