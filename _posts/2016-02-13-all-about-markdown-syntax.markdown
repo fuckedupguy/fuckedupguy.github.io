@@ -18,8 +18,8 @@ Markdown supports two style of headers
 
 There are two types of setex style headers
 
-1. First level headers (H1)
-2. Second level headers (H2)
+1. [First level headers (H1)](#setext-style-headers)
+2. [Second level headers (H2)](#atx-style-headers)
 
 ##### First level setex headers (H1)
 
@@ -55,7 +55,7 @@ Will display like:
 
 <img src="assets/img/2016/feb/h2_header.jpg" alt="H2 Header">
 
-<p><mark><strong>Any number of underlining =’s or -’s will work.</strong></mark></p>
+<mark><strong>Any number of underlining =’s or -’s will work.</strong></mark><br><br>
 
 #### Atx style headers
-* * *
+
