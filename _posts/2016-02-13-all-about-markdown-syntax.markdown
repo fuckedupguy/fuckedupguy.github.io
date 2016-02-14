@@ -36,7 +36,7 @@ This is a H1 header
 
 Will display like:
 
-<h1>This is a H1 header</h1>
+<samp><h1>This is a H1 header</h1></samp>
 
 #### Second level setex headers (H2)
 
@@ -53,6 +53,7 @@ This is a H2 header
 
 Will display like:
 
-<h2>This is a H2 header</h2>
+<samp><h2>This is a H2 header</h2></samp>
 
 #### Atx style headers
+* * *
