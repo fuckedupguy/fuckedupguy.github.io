@@ -15,7 +15,7 @@ As many other programming languages JavaScript does'nt have any built-in functio
 * innerHTML
 * console.log()
 
-## Using window.alert()
+### Using window.alert()
 
 You can use JS built-in alert functionality to display data.
 
@@ -25,7 +25,7 @@ window.alert('fuckedupguy here!');
 </script>
 {% endhighlight %}
 
-## Using document.write()
+### Using document.write()
 
 Executing document.write() method after fully loaded HTML can delete all existing HTML.
 
@@ -35,7 +35,7 @@ document.write('fuckedupguy here!');
 </script>
 {% endhighlight %}
 
-## Using innerHTML
+### Using innerHTML
 
 You can use innerHTML property to set HTML values to any selected HTML element. for select HTML element, simply we can use <code>document.getElementById()</code> method. 
 
@@ -54,7 +54,7 @@ document.getElementById("box").innerHTML = 'fuckedupguy here!';
 </html>
 {% endhighlight %}
 
-## Using console.log()
+### Using console.log()
 
 We can use <code>console.log()</code> method to output values into web browser console. to view browser console, simply press <kbd>F12</kbd> and select console tab/window.
 
