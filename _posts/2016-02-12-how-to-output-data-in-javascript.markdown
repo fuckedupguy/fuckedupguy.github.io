@@ -39,7 +39,7 @@ document.write('fuckedupguy here!');
 
 You can use innerHTML property to set HTML values to any selected HTML element. for select HTML element, simply we can use <code>document.getElementById()</code> method. 
 
-{% highlight javascript %}
+{% highlight html %}
 <!DOCTYPE html>
 <html>
 <body>
