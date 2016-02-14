@@ -5,7 +5,7 @@ date:   2016-02-11 09:58:51 -0800
 categories: JavaScript
 ---
 
-Now we know how to create a JavaScript files. let's learn how to use a JavaScript file on your website. to use JS file with our website, we need to include that JS file in your website.
+Now we know how to create a JavaScript files. let's learn how to use a JavaScript file in your website. to use JS file with our website, we need to include that JS file in your website.
 <!--more-->
 
 We can do this by two methods.
