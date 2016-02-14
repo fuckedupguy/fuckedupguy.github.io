@@ -23,7 +23,7 @@ There are two types of setex style headers
 
 #### First level setex headers (H1)
 
-First level <b>setex</b> headers can be create using <strong>underlined</strong> <strong>equel signs (=)</strong>.
+First level <b>setex</b> headers can be created using <strong>underlined</strong> <strong>equel signs (=)</strong>.
 
 For example:
 
@@ -36,13 +36,11 @@ This is a H1 header
 
 Will display like:
 
-<pre>
 <h1>This is a H1 header</h1>
-</pre>
 
 #### Second level setex headers (H2)
 
-Second level <b>setex</b> headers can be create using <strong>underlined</strong> <strong>dashes</strong>.
+Second level <b>setex</b> headers can be created using <strong>underlined</strong> <strong>dashes</strong>.
 
 For example:
 
@@ -55,8 +53,6 @@ This is a H2 header
 
 Will display like:
 
-<pre>
-<h1>This is a H2 header</h1>
-</pre>
+<h2>This is a H2 header</h2>
 
 #### Atx style headers
