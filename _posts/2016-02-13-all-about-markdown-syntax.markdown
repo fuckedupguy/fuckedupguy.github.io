@@ -21,38 +21,42 @@ There are two types of setex style headers
 1. First level headers (H1)
 2. Second level headers (H2)
 
-##### First level setex headers (H1)
+#### First level setex headers (H1)
 
 First level <b>setex</b> headers can be create using <strong>underlined</strong> <strong>equel signs (=)</strong>.
 
 For example:
 
-<code>
+<pre>
+	<code>
 This is a H1 header
 ===================
-</code>
+	</code>
+</pre>
 
 Will display like:
 
-<code>
+<pre>
 <h1>This is a H1 header</h1>
-</code>
+</pre>
 
-##### Second level setex headers (H2)
+#### Second level setex headers (H2)
 
 Second level <b>setex</b> headers can be create using <strong>underlined</strong> <strong>dashes</strong>.
 
 For example:
 
-<code>
+<pre>
+	<code>
 This is a H2 header
 -------------------
-</code>
+	</code>
+</pre>
 
 Will display like:
 
-<code>
+<pre>
 <h1>This is a H2 header</h1>
-</code>
+</pre>
 
 #### Atx style headers
