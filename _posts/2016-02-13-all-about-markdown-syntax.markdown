@@ -109,3 +109,4 @@ The optional way to create atx style headers.
 Output will be the same:
 
 <img src="assets/img/2016/feb/1_6_html_headers.jpg" alt="1 to 6 HTML headers">
+   return
