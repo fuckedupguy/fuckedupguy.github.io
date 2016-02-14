@@ -14,10 +14,10 @@ Will update this post
 
 Markdown supports two style of headers
 
-1. [setext style headers](#setext-style-headers)
+1. [Setext style headers](#setext-style-headers)
 2. [Atx style headers](#atx-style-headers)
 
-#### setext style headers
+#### Setext style headers
 
 There are two types of setext style headers
 
