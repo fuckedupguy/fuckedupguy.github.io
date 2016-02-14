@@ -21,7 +21,7 @@ There are two types of setex style headers
 1. First level headers (H1)
 2. Second level headers (H2)
 
-#### First level setex headers (H1)
+##### First level setex headers (H1)
 
 First level <b>setex</b> headers can be created using <strong>underlined</strong> <strong>equel signs (=)</strong>.
 
@@ -38,7 +38,7 @@ Will display like:
 
 <img src="assets/img/2016/feb/h1_header.jpg" alt="H1 Header">
 
-#### Second level setex headers (H2)
+##### Second level setex headers (H2)
 
 Second level <b>setex</b> headers can be created using <strong>underlined</strong> <strong>dashes</strong>.
 
