@@ -11,15 +11,15 @@ categories: Markdown
 
 Markdown supports two style of headers
 
-1. Setext style headers
-2. Atx style headers
+1. [Setext style headers](#setext-style-headers)
+2. [Atx style headers](#atx-style-headers)
 
 #### Setext style headers
 
 There are two types of setex style headers
 
-1. [First level headers (H1)](#setext-style-headers)
-2. [Second level headers (H2)](#atx-style-headers)
+1. [First level headers (H1)](#first-level-setex-headers-h1)
+2. [Second level headers (H2)](#second-level-setex-headers-h2)
 
 ##### First level setex headers (H1)
 
