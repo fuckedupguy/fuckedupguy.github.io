@@ -36,7 +36,7 @@ This is a H1 header
 
 Will display like:
 
-<img src="assets/img/feb/h1_header.jpg" alt="H1 Header">
+<img src="assets/img/2016/feb/h1_header.jpg" alt="H1 Header">
 
 #### Second level setex headers (H2)
 
@@ -53,7 +53,7 @@ This is a H2 header
 
 Will display like:
 
-<img src="assets/img/feb/h2_header.jpg" alt="H2 Header">
+<img src="assets/img/2016/feb/h2_header.jpg" alt="H2 Header">
 
 #### Atx style headers
 * * *
