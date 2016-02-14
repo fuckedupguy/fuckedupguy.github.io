@@ -55,7 +55,7 @@ Will display like:
 
 <img src="assets/img/2016/feb/h2_header.jpg" alt="H2 Header">
 
-<mark><strong>Any number of underlining =’s or -’s will work.</strong></mark>
+<p><mark><strong>Any number of underlining =’s or -’s will work.</strong></mark></p>
 
 #### Atx style headers
 * * *
