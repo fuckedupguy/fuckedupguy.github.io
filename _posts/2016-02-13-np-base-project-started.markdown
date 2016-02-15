@@ -12,6 +12,10 @@ Today I started working on it's "installation" module. using PHP and Bootstrap f
 
 <img src="https://1.bp.blogspot.com/-Tgo9ONO5qdE/VsCM84Nk9yI/AAAAAAAAAZY/OX-68VSrfkM/s1600/np_base_installation_module_01.png" alt="NP Base installation module interface 01">
 
+* * *
+
 <img src="https://2.bp.blogspot.com/-am-aqDA77xM/VsCM8ziBMQI/AAAAAAAAAZg/hB1U_8_if8U/s1600/np_base_installation_module_02.png" alt="NP Base installation module interface 02">
+
+* * *
 
 <img src="https://3.bp.blogspot.com/-C_9Ca5123Ws/VsCM802RVFI/AAAAAAAAAZc/C8XhKcaAh94/s1600/np_base_installation_module_03.png" alt="NP Base installation module interface 03">
